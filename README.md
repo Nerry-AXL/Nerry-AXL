@@ -1,23 +1,24 @@
-<h1 align="center">Hi there, I'm Nerry Asyncrite Koukoui 👋</h1>
-<h3 align="center">Machine Learning Engineer | AI Researcher | Ethical Hacking Enthusiast </h3>
+# Hi there, I'm Nerry Asyncrite Koukoui 👋
+
+### Machine Learning Engineer | AI Researcher | Ethical Hacking Enthusiast
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nerry-AXL&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Nerry-AXL&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 ---
 
-### 💡 About Me
+## 💡 About Me
 
 - 🎓 Final-year student at **Federal University of Ilorin**, Nigeria  
 - 🤖 Passionate about building intelligent systems, especially in **low-resource African languages** and **Sign Language**  
-- 🔬 Final year research: *"AI Reinforcement Learning Agents for Automated Penetration testing"*
-- 🛡️ Currently transitioning into **Cybersecurity** with a focus on **AI-powered Penetration Testing**
+- 🔬 Final year research: *"AI Reinforcement Learning Agents for Automated Penetration Testing"*  
+- 🛡️ Currently transitioning into **Cybersecurity** with a focus on **AI-powered Penetration Testing**  
 - 🧠 I build production-level tools using AI — from **chatbots**, **driver drowsiness detectors**, to **real-time surveillance systems**
 
 ---
 
-### 🛠️ Tech Stack & Tools I Use
+## 🛠️ Tech Stack & Tools I Use
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
@@ -42,18 +43,19 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab)
----
-
-### 🧪 Currently Working On
-
-- 📦 AI-powered Penetration Testing Tool (multi-agent framework)
-- 🧬 Real-time Sign Language Recognition System
-- 🎓 MIT Applied Data Science Capstone (in progress)
-- 🚀 Automatic License Plate Recognition, Detection, Extraction and tracking system
 
 ---
 
-### 📜 Certifications
+## 🧪 Currently Working On
+
+- 📦 AI-powered Penetration Testing Tool (multi-agent framework)  
+- 🧬 Real-time Sign Language Recognition System  
+- 🎓 MIT Applied Data Science Capstone (in progress)  
+- 🚀 Automatic License Plate Recognition, Detection, Extraction and Tracking System  
+
+---
+
+## 📜 Certifications
 
 - 🎓 **AI Master Certification** – Pantech Prolabs  
 - 📊 **Google Cloud** – Google  
@@ -62,35 +64,35 @@
 
 ---
 
-### 🧪 Final Year Project (Soil Remediation + AI)
+## 🧪 Final Year Project (Practical Application of AI in cybersecurity)
 
 Investigating how *"AI Reinforcement Learning Agents + cybersecurity tools"* can improve the security of computerized systems. A unique blend of **Cyber Science + AI modeling** to simulate outcomes and recommend interventions.
 
 ---
 
-### 🚀 Projects & Micro Tools
+## 🚀 Projects & Micro Tools
 
-- 🔐 **AI-powered Penetration Testing Tool** *(in development)*
+- 🔐 **AI-powered Penetration Testing Tool** *(in development)*  
 - 🤟🏾 **Effortless Sign Language Translation Systems**  
-- 🧠 **Realtime Driver Drowsiness Detection sytems**  
+- 🧠 **Realtime Driver Drowsiness Detection Systems**  
 - 💬 **Chatbots for University Portals & Clinics**  
 - 🔎 **Realtime AI-powered Surveillance System**  
-- 🔍 **African Multilingual NLP Tools** *(ongoing)*
+- 🔍 **African Multilingual NLP Tools** *(ongoing)*  
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 - 🥇 Built AI tools deployed in clinics and universities in Nigeria  
 - 🎯 Improved fraud detection systems by 25%, reduced false positives by 15%  
-- 🛠️ Implemented sign-in system using face recognition — 50% more efficient
-- 🐦‍🔥 Enhanced Applicant Tracking and Resume Parsing systems (65%-90% accuracy).
-- 😎 Developed empathy-detection NLP chatbots improving customer satisfaction by 35%.
-- 👌 Helped sole proprietor businesses increase profits by 56.95% via data analytics.
+- 🛠️ Implemented sign-in system using face recognition — 50% more efficient  
+- 🐦‍🔥 Enhanced Applicant Tracking and Resume Parsing systems (65%-90% accuracy)  
+- 😎 Developed empathy-detection NLP chatbots improving customer satisfaction by 35%  
+- 👌 Helped sole proprietor businesses increase profits by 56.95% via data analytics  
 
 ---
 
-### 📊 GitHub Stats & Metrics
+## 📊 GitHub Stats & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nerry-AXL&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -102,15 +104,15 @@ Investigating how *"AI Reinforcement Learning Agents + cybersecurity tools"* can
 
 ---
 
-### 📬 Connect with Me
+## 📬 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nerry-koukoui/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nerry-koukoui/)  
 - 📧 knerryasyncrite@gmail.com  
-- 🌐 [Portfolio (coming soon)](https://github.com/Nerry-AXL)
+- 🌐 [Portfolio (coming soon)](https://github.com/Nerry-AXL)  
 
 ---
 
-### 🌍 Languages
+## 🌍 Languages
 
 | Language | Proficiency |
 |----------|-------------|
@@ -120,6 +122,7 @@ Investigating how *"AI Reinforcement Learning Agents + cybersecurity tools"* can
 
 ---
 
-### 💬 Quote
+## 💬 Quote
+
 > _“Build things that matter. Break things to understand. And never stop learning.”_  
-— Nerry Koukoui
+> — Nerry Koukoui
