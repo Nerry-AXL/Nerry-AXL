@@ -11,7 +11,7 @@
 ## 💡 About Me
 
 
----<br><br>🔭 **I’m currently working on**<br>An AI-powered Penetration Testing Tool using Reinforcement Learning.<br><br>👯 **I’m looking to collaborate on**<br>AI projects focused on low-resource languages, Computer Vision, Education Technologies or cybersecurity automation.<br><br>🤝 **I’m looking for help with**<br>Optimizing my multi-agent RL models for real-time intrusion detection and deployment on edge devices..<br><br>🌱 **I’m currently learning**<br>Advanced Penetration Testing, Malware Analysis, and secure AI deployment techniques.<br><br>💬 **Ask me about**<br>AI in African contexts, real-world chatbot deployment, Computer Vision, ethical hacking or anything else related this cyber world.<br><br>⚡ **Fun fact**<br>I once boosted a Factory’s biometric attendance system efficiency by 50% and the produce count efficiency by 96% with just a Raspberry Pi, facial recognition and object detection and tracking model!<br>
+---<br><br>🔭 **I’m currently working on**<br>An AI-powered Penetration Testing Tool using Reinforcement Learning.<br><br>👯 **I’m looking to collaborate on**<br>AI projects focused on low-resource languages, Computer Vision, Education Technologies or cybersecurity automation.<br><br>🤝 **I’m looking for help with**<br>Optimizing my multi-agent RL models for real-time intrusion detection and deployment on edge devices..<br><br>🌱 **I’m currently learning**<br>Advanced Penetration Testing, Malware Analysis, and secure AI deployment techniques.<br><br>💬 **Ask me about**<br>AI in African contexts, real-world chatbot deployment, Computer Vision, ethical hacking or anything else related this cyber world.<br><br>⚡ **Fun fact**<br>I once boosted a Factory’s biometric attendance system efficiency by 50% and the produce count efficiency by 96% with just a Raspberry Pi, facial recognition and object detection and tracking model!<br> <br><br> 🐦‍🔥 I am also a polyglot. I understand and speak about 10 languages including 7 african languages and 3 occidental languages!<br> 
 
 - 🎓 Final-year student at **Federal University of Ilorin**, Nigeria  
 - 🤖 Passionate about building intelligent systems, especially in **low-resource African languages** and **Sign Language**  
@@ -132,16 +132,6 @@ Investigating how *"AI Reinforcement Learning Agents + cybersecurity tools"* can
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div>
 
-
----
-
-## 🌍 Languages
-
-| Language | Proficiency |
-|----------|-------------|
-| 🇫🇷 French | Native |
-| 🇬🇧 English | Native |
-| 🇩🇪 German | Basic |
 
 ---
 
