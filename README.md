@@ -119,14 +119,9 @@ Investigating how *"AI Reinforcement Learning Agents + cybersecurity tools"* can
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerry-AXL&layout=compact&theme=radical" />
 </p>
 
----
+--- 
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nerry Koukoui) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Nerry Asyncrite KOUKOUI) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/KOUKOUI Nerry) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/I_Am_Nerry) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knerryasyncrite@gmail.com) 
-
-
-## 📬 Connect with Me
+## 📬 Connect with Me via my socials
   
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nerry Koukoui)
 - [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Nerry Asyncrite KOUKOUI)
