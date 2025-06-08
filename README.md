@@ -118,16 +118,16 @@ Investigating how **agricultural waste + abattoir effluent** improves contaminat
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nerryasyncrite&show_icons=true&theme=radical" alt="nerryasyncrite's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nerry-AXL&show_icons=true&theme=radical" alt="nerryasyncrite's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerryasyncrite&theme=dark" alt="nerryasyncrite's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nerry-AXL&theme=dark" alt="nerryasyncrite's GitHub streak" />
 </p>
 
 ---
 
 ### 📬 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nerryasyncrite/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nerry-koukoui/)
 - 📧 knerryasyncrite@gmail.com  
 - 💻 Portfolio Website (coming soon)
 
