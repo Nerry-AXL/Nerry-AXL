@@ -22,49 +22,22 @@
 
 <table>
   <tr>
-    <th>Languages</th>
-    <th>ML & Data</th>
-    <th>DevOps & Infra</th>
-  </tr>
-  <tr>
     <td>
 
 - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
 - ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)  
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL)  
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)  
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)  
+- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
 
 </td>
     <td>
 
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)  
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)  
 - ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)  
 - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  
-- ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
-
-</td>
-    <td>
-
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)  
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)  
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-
-</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>Visualization</th>
-    <th>Web & API</th>
-    <th>Notebooks & Tools</th>
-  </tr>
-  <tr>
-    <td>
-
+- ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)  
 - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)  
 - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-008080?style=flat&logo=python)  
 - ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python)
@@ -72,13 +45,13 @@
 </td>
     <td>
 
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)  
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)  
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
 - ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)  
 - ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)  
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-
-</td>
-    <td>
-
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)  
 - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)  
 - ![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab)
