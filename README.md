@@ -99,8 +99,6 @@ Investigating how *"AI Reinforcement Learning Agents + cybersecurity tools"* can
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerry-AXL&layout=compact&theme=radical" />
 </p>
 
-![Metrics](https://raw.githubusercontent.com/Nerry-AXL/Nerry-AXL/main/github-metrics.svg)
-
 ---
 
 ## 📬 Connect with Me
