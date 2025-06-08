@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nerry Asyncrite Koukoui 👋</h1>
-<h3 align="center">Machine Learning Engineer | AI Researcher | Ethical Hacking Enthusiast | Multilingual 🇫🇷 🇬🇧 🇩🇪</h3>
+<h3 align="center">Machine Learning Engineer | AI Researcher | Ethical Hacking Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nerry-AXL&style=flat-square&color=blue" alt=""/>
@@ -17,8 +17,7 @@
 
 ---
 
-### 🛠️ Tech & Tools I Use
-### 🧰 Tech Stack
+### 🛠️ Tech Stack & Tools I Use
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
@@ -48,16 +47,16 @@
 ### 🧪 Currently Working On
 
 - 📦 AI-powered Penetration Testing Tool (multi-agent framework)
-- 🧬 Real-time Sign Language Recognition
+- 🧬 Real-time Sign Language Recognition System
 - 🎓 MIT Applied Data Science Capstone (in progress)
-- 🚀 Raspberry Pi 5 License Plate Detection with YOLOv8
+- 🚀 Automatic License Plate Recognition, Detection, Extraction and tracking system
 
 ---
 
 ### 📜 Certifications
 
 - 🎓 **AI Master Certification** – Pantech Prolabs  
-- 📊 **Data Analytics** – ALX Africa  
+- 📊 **Google Cloud** – Google  
 - 💻 **MIT Applied Data Science Program** (in progress)  
 - 🛡️ Currently learning **ethical hacking & penetration testing**
 
@@ -65,19 +64,18 @@
 
 ### 🧪 Final Year Project (Soil Remediation + AI)
 
-Investigating how **agricultural waste + abattoir effluent** improves contaminated soil. A unique blend of **environmental science + AI modeling** to simulate outcomes and recommend interventions.
+Investigating how *"AI Reinforcement Learning Agents + cybersecurity tools"* can improve the security of computerized systems. A unique blend of **Cyber Science + AI modeling** to simulate outcomes and recommend interventions.
 
 ---
 
 ### 🚀 Projects & Micro Tools
 
-- 🔐 **AI-powered Penetration Testing Tool** *(in development)*  
-- 📸 **Lip Reading Model** using TensorFlow + OpenCV  
-- 🤟🏾 **Effortless Sign Language Translation System**  
-- 🧠 **Driver Drowsiness Detection with Raspberry Pi**  
+- 🔐 **AI-powered Penetration Testing Tool** *(in development)*
+- 🤟🏾 **Effortless Sign Language Translation Systems**  
+- 🧠 **Realtime Driver Drowsiness Detection sytems**  
 - 💬 **Chatbots for University Portals & Clinics**  
-- 🔎 **Object Detection Surveillance System**  
-- 🔍 **Nigerian Multilingual NLP Tools** *(ongoing)*
+- 🔎 **Realtime AI-powered Surveillance System**  
+- 🔍 **African Multilingual NLP Tools** *(ongoing)*
 
 ---
 
@@ -86,6 +84,9 @@ Investigating how **agricultural waste + abattoir effluent** improves contaminat
 - 🥇 Built AI tools deployed in clinics and universities in Nigeria  
 - 🎯 Improved fraud detection systems by 25%, reduced false positives by 15%  
 - 🛠️ Implemented sign-in system using face recognition — 50% more efficient
+- 🐦‍🔥 Enhanced Applicant Tracking and Resume Parsing systems (65%-90% accuracy).
+- 😎 Developed empathy-detection NLP chatbots improving customer satisfaction by 35%.
+- 👌 Helped sole proprietor businesses increase profits by 56.95% via data analytics.
 
 ---
 
@@ -98,13 +99,6 @@ Investigating how **agricultural waste + abattoir effluent** improves contaminat
 </p>
 
 ![Metrics](https://raw.githubusercontent.com/Nerry-AXL/Nerry-AXL/main/github-metrics.svg)
-
----
-
-### ⏱ WakaTime Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
