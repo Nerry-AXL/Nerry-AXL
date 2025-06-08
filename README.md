@@ -10,6 +10,9 @@
 
 ## 💡 About Me
 
+
+---<br><br>🔭 **I’m currently working on**<br>An AI-powered Penetration Testing Tool using Reinforcement Learning.<br><br>👯 **I’m looking to collaborate on**<br>AI projects focused on low-resource languages, Computer Vision, Education Technologies or cybersecurity automation.<br><br>🤝 **I’m looking for help with**<br>Optimizing my multi-agent RL models for real-time intrusion detection and deployment on edge devices..<br><br>🌱 **I’m currently learning**<br>Advanced Penetration Testing, Malware Analysis, and secure AI deployment techniques.<br><br>💬 **Ask me about**<br>AI in African contexts, real-world chatbot deployment, Computer, ethical hacking or anything else related this cyber world.<br><br>⚡ **Fun fact**<br>I once boosted a Factory’s biometric attendance system efficiency by 50% with just a Raspberry Pi and a facial recognition model!<br>
+
 - 🎓 Final-year student at **Federal University of Ilorin**, Nigeria  
 - 🤖 Passionate about building intelligent systems, especially in **low-resource African languages** and **Sign Language**  
 - 🔬 Final year research: *"AI Reinforcement Learning Agents for Automated Penetration Testing"*  
@@ -118,11 +121,19 @@ Investigating how *"AI Reinforcement Learning Agents + cybersecurity tools"* can
 
 ---
 
-## 📬 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nerry-koukoui/)  
-- 📧 knerryasyncrite@gmail.com  
-- 🌐 [Portfolio (coming soon)](https://github.com/Nerry-AXL)  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nerry Koukoui) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Nerry Asyncrite KOUKOUI) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/KOUKOUI Nerry) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/I_Am_Nerry) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knerryasyncrite@gmail.com) 
+
+
+## 📬 Connect with Me
+  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nerry Koukoui)
+- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Nerry Asyncrite KOUKOUI)
+- [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/KOUKOUI Nerry)
+- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/I_Am_Nerry)
+- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knerryasyncrite@gmail.com) 
+- [![Portfolio (coming soon)](https://github.com/Nerry-AXL)
 
 ---
 
@@ -147,42 +158,3 @@ Investigating how *"AI Reinforcement Learning Agents + cybersecurity tools"* can
 
 > _“Build things that matter. Break things to understand. And never stop learning.”_  
 > — Nerry Koukoui
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 💫 About Me:
----<br><br>🔭 **I’m currently working on**<br>An AI-powered Penetration Testing Tool using Reinforcement Learning, and a Real-time Sign Language Recognition System.<br><br>👯 **I’m looking to collaborate on**<br>AI projects focused on low-resource languages, Computer Vision, Education Technologies or cybersecurity automation.<br><br>🤝 **I’m looking for help with**<br>Optimizing my multi-agent RL models for real-time intrusion detection and deployment on edge devices..<br><br>🌱 **I’m currently learning**<br>Advanced Penetration Testing, Malware Analysis, and secure AI deployment techniques.<br><br>💬 **Ask me about**<br>AI in African contexts, real-world chatbot deployment, Computer, ethical hacking or anything else related this cyber world.<br><br>⚡ **Fun fact**<br>I once boosted a school’s biometric attendance system efficiency by 50% with just a Raspberry Pi and a facial recognition model!<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nerry Koukoui) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Nerry Asyncrite KOUKOUI) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/KOUKOUI Nerry) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/I_Am_Nerry) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knerryasyncrite@gmail.com) 
-
-# 💻 Tech Stack:
