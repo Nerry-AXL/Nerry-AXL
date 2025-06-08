@@ -21,28 +21,45 @@
 ## 🛠️ Tech Stack & Tools I Use
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-008080?style=flat&logo=python)  
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) 
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 
 ---
 
@@ -114,7 +131,7 @@ Investigating how *"AI Reinforcement Learning Agents + cybersecurity tools"* can
 | Language | Proficiency |
 |----------|-------------|
 | 🇫🇷 French | Native |
-| 🇬🇧 English | Fluent |
+| 🇬🇧 English | Native |
 | 🇩🇪 German | Basic |
 
 ---
@@ -130,3 +147,42 @@ Investigating how *"AI Reinforcement Learning Agents + cybersecurity tools"* can
 
 > _“Build things that matter. Break things to understand. And never stop learning.”_  
 > — Nerry Koukoui
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 💫 About Me:
+---<br><br>🔭 **I’m currently working on**<br>An AI-powered Penetration Testing Tool using Reinforcement Learning, and a Real-time Sign Language Recognition System.<br><br>👯 **I’m looking to collaborate on**<br>AI projects focused on low-resource languages, Computer Vision, Education Technologies or cybersecurity automation.<br><br>🤝 **I’m looking for help with**<br>Optimizing my multi-agent RL models for real-time intrusion detection and deployment on edge devices..<br><br>🌱 **I’m currently learning**<br>Advanced Penetration Testing, Malware Analysis, and secure AI deployment techniques.<br><br>💬 **Ask me about**<br>AI in African contexts, real-world chatbot deployment, Computer, ethical hacking or anything else related this cyber world.<br><br>⚡ **Fun fact**<br>I once boosted a school’s biometric attendance system efficiency by 50% with just a Raspberry Pi and a facial recognition model!<br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nerry Koukoui) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Nerry Asyncrite KOUKOUI) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/KOUKOUI Nerry) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/I_Am_Nerry) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knerryasyncrite@gmail.com) 
+
+# 💻 Tech Stack:
