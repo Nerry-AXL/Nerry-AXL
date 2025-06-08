@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer | AI Researcher | Ethical Hacking Enthusiast | Multilingual 🇫🇷 🇬🇧 🇩🇪</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nerry-AXL&label=Profile%20views&color=0e75b6&style=flat" alt="nerryasyncrite" />
+  
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 🎓 Final-year student at **Federal University of Ilorin**, Nigeria  
 - 🤖 Passionate about building intelligent systems, especially in **low-resource African languages** and **Sign Language**  
-- 🔬 Final year research: *"Effect of Saw Dust and Rice Husk Treated with Abattoir Effluent on Loamy Soil Contaminated with Petroleum Products"*
+- 🔬 Final year research: *"AI Reinforcement Learning Agents for Automated Penetration testing"*
 - 🛡️ Currently transitioning into **Cybersecurity** with a focus on **AI-powered Penetration Testing**
 - 🧠 I build production-level tools using AI — from **chatbots**, **driver drowsiness detectors**, to **real-time surveillance systems**
 
