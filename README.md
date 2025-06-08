@@ -120,7 +120,11 @@ Investigating how *"AI Reinforcement Learning Agents + cybersecurity tools"* can
 </p>
 
 ---
+## 📬 Connect with Me via my socials
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nerry-koukoui/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@knerryasyncrite) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://uk.pinterest.com/knerryasyncrite) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/I_Am_Nerry) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knerryasyncrite@gmail.com) 
 
+---
 
 <!-- Snake Animation -->
 <div align="center">
@@ -128,11 +132,6 @@ Investigating how *"AI Reinforcement Learning Agents + cybersecurity tools"* can
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div>
 
-
----
-## 📬 Connect with Me via my socials
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nerry-koukoui/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@knerryasyncrite) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://uk.pinterest.com/knerryasyncrite) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/I_Am_Nerry) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knerryasyncrite@gmail.com) 
 
 ---
 
