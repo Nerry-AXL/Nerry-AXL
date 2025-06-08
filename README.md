@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer | AI Researcher | Ethical Hacking Enthusiast | Multilingual 🇫🇷 🇬🇧 🇩🇪</h3>
 
 <p align="center">
-  
+  <img src="https://komarev.com/ghpvc/?username=Nerry-AXL&style=flat-square&color=blue" alt=""/>
 </p>
 
 ---
@@ -52,29 +52,12 @@
 
 ---
 
-### 💼 Professional Experience
+### 🧪 Currently Working On
 
-**🔸 Machine Learning Specialist @ McGeorge Consulting Ltd (2024–Present)**  
-- Developed intelligent chatbots using RAG and pre-trained LLMs  
-- Built real-time **driver drowsiness detection** systems with Raspberry Pi  
-- Created NLP pipelines for medical and educational systems  
-- Automated data integrity checks for university websites
-
-**🔸 ML Specialist @ EvonAi (2022–2024)**  
-- Designed custom AI chatbots with empathy detection  
-- Built resume parsers and predictive ATS with 65%–90% accuracy  
-- Boosted business profitability through ML-driven analytics  
-- Delivered Power BI dashboards and insights to stakeholders  
-
-**🔸 Data Science Associate (Freelance, UK)**  
-- Built telehealth chatbots and facial recognition systems  
-- Developed fraud detection systems using R and Python  
-- Worked on object detection CV systems with 91.5% accuracy  
-
-**Other roles** at:
-- ElevateAI (USA) — Junior ML Engineer  
-- MoodMe (USA) — Junior Data Scientist  
-- A.X.L Labs (Benin Republic) — Junior Data Scientist
+- 📦 AI-powered Penetration Testing Tool (multi-agent framework)
+- 🧬 Real-time Sign Language Recognition
+- 🎓 MIT Applied Data Science Capstone (in progress)
+- 🚀 Raspberry Pi 5 License Plate Detection with YOLOv8
 
 ---
 
@@ -105,6 +88,41 @@ Investigating how **agricultural waste + abattoir effluent** improves contaminat
 
 ---
 
+### 🏆 Achievements
+
+- 🥇 Built AI tools deployed in clinics and universities in Nigeria  
+- 🎯 Improved fraud detection systems by 25%, reduced false positives by 15%  
+- 🛠️ Implemented sign-in system using face recognition — 50% more efficient
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nerry-AXL&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nerry-AXL&theme=dark" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerry-AXL&layout=compact&theme=radical" />
+</p>
+
+![Metrics](https://raw.githubusercontent.com/Nerry-AXL/Nerry-AXL/main/github-metrics.svg)
+
+---
+
+### ⏱ WakaTime Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### 📬 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nerry-koukoui/)
+- 📧 knerryasyncrite@gmail.com  
+- 🌐 [Portfolio (coming soon)](https://github.com/Nerry-AXL)
+
+---
+
 ### 🌍 Languages
 
 | Language | Proficiency |
@@ -115,24 +133,6 @@ Investigating how **agricultural waste + abattoir effluent** improves contaminat
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nerry-AXL&show_icons=true&theme=radical" alt="nerryasyncrite's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nerry-AXL&theme=dark" alt="nerryasyncrite's GitHub streak" />
-</p>
-
----
-
-### 📬 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nerry-koukoui/)
-- 📧 knerryasyncrite@gmail.com  
-- 💻 Portfolio Website (coming soon)
-
----
-
+### 💬 Quote
 > _“Build things that matter. Break things to understand. And never stop learning.”_  
 — Nerry Koukoui
-
