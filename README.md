@@ -49,8 +49,8 @@
 ## 🧪 Currently Working On
 
 - 📦 AI-powered Penetration Testing Tool (multi-agent framework)  
-- 🧬 Real-time Sign Language Recognition System  
-- 🎓 MIT Applied Data Science Capstone (in progress)  
+- 👌 AI-powered online tool allowing users to interact with PDF documents as if they were having a conversation (in progress)  
+- 🎓 MIT Applied Data Science Capstone   
 - 🚀 Automatic License Plate Recognition, Detection, Extraction and Tracking System  
 
 ---
@@ -58,8 +58,7 @@
 ## 📜 Certifications
 
 - 🎓 **AI Master Certification** – Pantech Prolabs  
-- 📊 **Google Cloud** – Google  
-- 💻 **MIT Applied Data Science Program** (in progress)  
+- 📊 **Google Cloud** – Google (in progress)    
 - 🛡️ Currently learning **ethical hacking & penetration testing**
 
 ---
