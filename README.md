@@ -125,15 +125,6 @@ Investigating how *"AI Reinforcement Learning Agents + cybersecurity tools"* can
 
 ---
 
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
-
-
----
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nerry-AXL&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
